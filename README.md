@@ -71,7 +71,6 @@ The project uses `earthquakes_clean_for_processing.csv` with the following colum
 earthquake_sonifier/
 ├── earthquake_sonifier.pde      # Main Processing sketch
 ├── earthquakes_clean_for_processing.csv  # Dataset
-├── README_MAP.txt               # Map instructions
 earthquake_sonifier.pd            # Pure Data patch
 earthquake_sonifier_simple.pd     # Simple test patch
 ```
