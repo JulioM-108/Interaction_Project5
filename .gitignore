@@ -1,0 +1,25 @@
+# Ignore Processing build files
+*.class
+*.jar
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Ignore backup files
+*.bak
+*.backup
+*~
+
+# Ignore Pure Data autosave
+*.pd~
+
+# Ignore data folder if you add map images
+earthquake_sonifier/data/
+
+# Ignore temporary files
+*.tmp
+*.temp
