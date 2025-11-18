@@ -6,6 +6,10 @@ Interactive earthquake visualization and sonification system built with Processi
 
 This project creates an audiovisual representation of earthquake data, combining real-time visualization in Processing with sound synthesis in Pure Data. Users can explore historical earthquake data through both visual and auditory dimensions.
 
+## Video
+
+[Link to Video](https://youtu.be/bzuVF-JmZG4)
+
 ## Features
 
 - **Real-time Data Playback**: Sequential visualization of earthquake events
